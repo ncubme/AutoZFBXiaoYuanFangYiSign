@@ -52,3 +52,35 @@ cookie文件加载成功
 
 
 
+2022-01-01 18:42:56.407899
+历史定位签到模式
+单人签到模式
+当前IP：20.114.54.221,
+
+ 美国DXCTechnology
+
+系统时间：2022-01-01 18:42:57
+UTC时间：2022-01-01 18:42:56
+北京时间：2022-01-02 02:42:56
+北京时间与系统时间误差：7:59:58.263215
+2022-01-01 18:42:57.736870:20084108签到开始
+cookie文件存在
+cookie文件加载成功
+NAME李容恺
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+NAME李容恺
+定位 115.825051，28.651832，江西省南昌市
+{"status":0,"result":{"location":{"lng":115.83652178724195,"lat":28.65453669659967},"formatted_address":"江西省南昌市红谷滩区中南路","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"南昌市","city_level":2,"district":"红谷滩区","town":"","town_code":"","distance":"","direction":"","adcode":"360113","street":"中南路","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":163}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E5%8D%97%E6%98%8C%E5%B8%82&district=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&street=%E5%8D%97%E6%98%8C%E5%B8%82&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E5%8D%97%E6%98%8C%E5%B8%82&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E5%8D%97%E6%98%8C%E5%B8%82&bdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&bstreet=%E5%8D%97%E6%98%8C%E5%B8%82&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E5%8D%97%E6%98%8C%E5%B8%82&sdistrict=%E7%BA%A2%E8%B0%B7%E6%BB%A9%E5%8C%BA&lng=115.825057&lat=28.651827&sfby=1
+签到成功
+2022-01-01 18:43:20.656710:20084108签到结束
+李容恺20084108签到成功！
+2022-01-01 18:43:20.656737程序结束
+######################################################################
+
+
+
+
